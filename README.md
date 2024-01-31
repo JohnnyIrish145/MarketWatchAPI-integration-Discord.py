@@ -24,6 +24,11 @@ A python discord bot that uses the MarketWatch API wrapper for interacting with 
 * `stock_names_sort.py` - queries the yahoo finance database for it's company stock name, for example: "Apple" --> "AAPL".
 * `main.py` - defines the discord bot, the roles and channels it uses, handles the front and backend.
 * `sine_wave.jpg` - an example of the output file when you search for the price with `/price`
+<p>
+  <img src="sine_wave.jpg" width="400" alt='"sine_wave.jpg"example' style="width:320px;height:240px;">
+</p>
+
+
 ### Libraries used:
 * `discord.py` - Discord bot.
 * `datetime` - time handiling.
